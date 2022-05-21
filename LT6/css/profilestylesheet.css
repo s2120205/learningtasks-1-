@@ -1,0 +1,25 @@
+    .description{
+        width: 350px;
+        height: 200px;
+        text-align: center;
+        position: relative;
+        float: right;
+        bottom: 30px;
+    }
+    .img{
+        width: 300px;
+        height:350px;
+        padding:210px;
+    }
+    .profileimg{
+        width: 350px;
+        height: 400px;
+        position: relative;
+        float: left;
+    }
+    
+    .text{
+        color: rgb(0, 6, 3);
+        font-size: 30px;
+        font-family: 'Akshar', sans-serif;
+    }
